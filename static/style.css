@@ -1,0 +1,14 @@
+.banner
+{
+    background-color:Fuchsia;
+    width:100%;
+    height:100px;
+    margin-bottom:20px;
+}
+.banner-text{
+    color:green;
+    top:5%;
+    left:45%;
+    position:absolute;
+    transform:transform;
+}
